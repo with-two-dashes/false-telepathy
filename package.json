@@ -1,0 +1,19 @@
+{
+  "name": "false-telepathy",
+  "version": "1.0.0",
+  "description": "Who ever heard of a rubber band?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/with-two-dashes/false-telepathy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/with-two-dashes/false-telepathy/issues"
+  },
+  "homepage": "https://github.com/with-two-dashes/false-telepathy#readme"
+}
