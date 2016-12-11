@@ -1,0 +1,8 @@
+<div class="now-playing">
+	<div>Now Playing: {{ctrl.text}}</div>
+	<div class="request-area">
+		<indicator-light></indicator-light>
+		<input ng-model="ctrl.requestText">
+	</div>
+	<button ng-click="ctrl.sendRequest(ctrl.requestText)">Request</button>
+</div>

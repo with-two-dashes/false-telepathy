@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/with-two-dashes/false-telepathy/issues"
   },
-  "homepage": "https://github.com/with-two-dashes/false-telepathy#readme"
+  "homepage": "https://github.com/with-two-dashes/false-telepathy#readme",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.7.1"
+  }
 }

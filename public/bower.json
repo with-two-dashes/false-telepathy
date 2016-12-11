@@ -1,0 +1,21 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/with-two-dashes/false-telepathy",
+  "authors": [
+    "Victor Lawrence <madhatterblues@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.0",
+    "howler.js": "howler#^2.0.2"
+  }
+}
